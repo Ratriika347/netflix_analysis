@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis — Data Analyst Portfolio Project
+# Netflix Content Analysis
 
 This project presents an end-to-end data analysis workflow on Netflix’s content library using Python, Jupyter Notebook, and Power BI–ready outputs. The analysis covers data exploration, cleaning, feature engineering, visualization, and strategic insights to demonstrate both technical and business-oriented analytical skills.
 
@@ -101,21 +101,21 @@ Custom features were created to enhance business analysis:
 
 Each chart is exported as a standalone image for flexible use in dashboards, reports, and portfolio documentation:
 
-### 📊 Sample Visuals
+#### 📊 Sample Visuals
 
-#### Movies vs TV Shows
+##### Movies vs TV Shows
 
 ![Movies vs TV Shows](visuals/01_movies_vs_tvshows.png)
 
-#### Top Genres
+##### Top Genres
 
 ![Top Genres](visuals/05_top_genres.png)
 
-#### Content Growth Over Time
+##### Content Growth Over Time
 
 ![Titles Added Per Year](visuals/10_titles_added_per_year.png)
 
-#### Metadata Quality
+##### Metadata Quality
 
 ![Metadata Completeness](visuals/08_metadata_completeness.png)
 
